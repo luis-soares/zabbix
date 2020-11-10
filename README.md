@@ -1,1 +1,1 @@
-# zabbix
+# zabbix fast deploy =)
